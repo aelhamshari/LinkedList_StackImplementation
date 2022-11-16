@@ -1,0 +1,9 @@
+START itunes
+CALL itunes play n
+START WoW
+CALL WoW load n
+CALL WoW farm y
+CALL WoW fight n
+START chrome
+THROW WoW
+PRINT
